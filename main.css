@@ -64,7 +64,7 @@ section{
     background-position: center;
     background-attachment: fixed;
     /*background-color: #ffffff;*/
-    background-image: url('images/Al-Mazaq.sa2.png');
+    background-image: url('Al-Mazaq.sa2.png');
     justify-content: center;
 }
 
@@ -167,7 +167,7 @@ section{
 
 
 .Games{
-    background-image: url('images/Al-Mazaq.sa.png');
+    background-image: url('Al-Mazaq.sa.png');
 }
 
 .Games .title {
